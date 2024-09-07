@@ -1,4 +1,4 @@
-eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-1
 
 #支持私库
 #支持指定架构
