@@ -1,4 +1,4 @@
-eipwork/kuboard:v3
+questdb/questdb:6.0.4
 
 #支持私库
 #支持指定架构
