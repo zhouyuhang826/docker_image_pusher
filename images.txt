@@ -1,4 +1,4 @@
-zhaoqi99/qops-server:latest
+zhaoqi99/qops-web:latest
 
 #支持私库
 #支持指定架构
