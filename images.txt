@@ -1,4 +1,4 @@
-zhaoqi99/qops-web:latest
+prom/prometheus
 
 #支持私库
 #支持指定架构
