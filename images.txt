@@ -1,4 +1,4 @@
-6053537/portainer-ce
+--platform=linux/arm64  arm64v8/nginx:alpine3.20-otel
 
 #支持私库
 #支持指定架构
