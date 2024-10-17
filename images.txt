@@ -1,4 +1,4 @@
---platform=linux/arm64 arm64v8/mysql:8.0.40
+--platform=linux/arm64 houwm/jdk8:arm64
 
 #支持私库
 #支持指定架构
