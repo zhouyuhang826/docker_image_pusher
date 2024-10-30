@@ -4,4 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+#x86
+#--platform=linux/x86_64 enmotech/opengauss:5.0.3
+
 
