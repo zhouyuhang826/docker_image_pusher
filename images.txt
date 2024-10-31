@@ -1,3 +1,4 @@
+--platform=linux/x86_64 
 enmotech/opengauss:5.1.0
 
 #支持私库
