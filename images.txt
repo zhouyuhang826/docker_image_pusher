@@ -1,4 +1,3 @@
---platform=linux/x86_64 
 mrhavens/dedockify
 
 #支持私库
