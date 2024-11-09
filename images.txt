@@ -1,5 +1,5 @@
 --platform=linux/x86_64 
-mrhavens/dedockify
+enmotech/opengauss:5.0.3
 
 #支持私库
 #支持指定架构
