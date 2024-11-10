@@ -1,4 +1,4 @@
---platform=linux/arm64 enmotech/opengauss:5.0.3
+--platform=linux/arm64 enmotech/opengauss:6.0.0
 
 #支持私库
 #支持指定架构
