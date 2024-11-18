@@ -1,4 +1,4 @@
---platform=linux/arm64 arm64v8/tomcat:8.5.55
+--platform=linux/arm64 tomcat:8.5.55
 
 #支持私库
 #支持指定架构
