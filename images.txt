@@ -1,4 +1,5 @@
---platform=linux/x86_64 gitlab/gitlab-ce
+--platform=linux/x86_64 
+gitlab/gitlab-ce:latest
 
 #支持私库
 #支持指定架构
