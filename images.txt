@@ -1,5 +1,4 @@
---platform=linux/x86_64 
-xhofe/alist
+--platform=linux/x86_64 xhofe/alist
 
 #支持私库
 #支持指定架构
