@@ -1,4 +1,4 @@
---platform=linux/x86_64 ghcr.io/open-webui/open-webui:main
+--platform=linux/x86_64 hello-world
 #--platform=linux/arm64 xhofe/alist
 #支持私库
 #支持指定架构
